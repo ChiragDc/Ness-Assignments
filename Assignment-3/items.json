@@ -1,56 +1,77 @@
 [{
 		"id": 1,
-		"name": "Kashmir Apples",
-		"image": "../../assets/Images/apple.jpg",
-		"desc": "Buy our certified and tastiest apples"
+		"name": "Apples",
+		"image": "https://post.healthline.com/wp-content/uploads/2020/09/Do_Apples_Affect_Diabetes_and_Blood_Sugar_Levels-732x549-thumbnail-1-732x549.jpg",
+		"desc": "An apple is an edible fruit produced by an apple tree."
 	},
 	{
 		"id": 2,
 		"name": "Oranges",
-		"image": "../../assets/Images/Oranges.jpg",
-		"desc": "Buy our certified and tastiest Oranges"
+		"image": "https://cdn.britannica.com/24/174524-050-A851D3F2/Oranges.jpg",
+		"desc": "Oranges are a type of low calorie, highly nutritious citrus fruit."
 	},
 	{
 		"id": 3,
 		"name": "Watermelon",
-		"image": "../../assets/Images/wm.webp",
-		"desc": "Buy our certified and tastiest Watermelon"
+		"image": "https://www.greybears.org/wp-content/uploads/2017/05/watermelon.jpg",
+		"desc": "Watermelon is a surprisingly healthy fruit"
 	},
 	{
 		"id": 4,
 		"name": "Pumpkin",
-		"image": "../../assets/Images/pump.jpg",
-		"desc": "Buy our certified and tastiest Pumpkin"
+		"image": "https://cdn-prod.medicalnewstoday.com/content/images/articles/279/279610/a-bunch-of-pumpkins-in-a-box.jpg",
+		"desc": "A pumpkin is a cultivar of winter squash that is round with smooth, slightly ribbed skin"
 	},
 	{
 		"id": 5,
 		"name": "Beans",
-		"image": "../../assets/Images/beans.jpg",
-		"desc": "Buy our certified and tastiest Beans"
+		"image": "https://thefamilydinnerproject.org/wp-content/uploads/2013/09/Green-bean-lime-633x326.jpg",
+		"desc": "A bean is the seed of one of several genera of the flowering plant family Fabaceae"
 	},
 	{
 		"id": 6,
 		"name": "Potato",
-		"image": "../../assets/Images/potato.jpg",
-		"desc": "Buy our certified and tastiest Pumpkin"
+		"image": "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/spud-power-potatoes-are-more-than-carbs-334431.jpg",
+		"desc": "The potato is a root vegetable native to the Americas, a starchy tuber of the plant Solanum tuberosum"
 	},
 	{
 		"id": 7,
 		"name": "Tomato",
-		"image": "../../assets/Images/potato.jpg",
-		"desc": "Buy our certified and tastiest Pumpkin"
+		"image": "https://post.healthline.com/wp-content/uploads/2020/09/tomatoes-1200x628-facebook-1200x628.jpg",
+		"desc": "The tomato is the edible berry of the plant Solanum lycopersicum"
 	},
 	{
 		"id": 8,
 		"name": "Radish",
-		"image": "../../assets/Images/potato.jpg",
-		"desc": "Buy our certified and tastiest Pumpkin"
+		"image": "https://www.organicfacts.net/wp-content/uploads/2013/06/Raddish.jpg",
+		"desc": "The radish is an edible root vegetable of the family Brassicaceae that was domesticated in Asia"
 	},
 	{
 		"id": 9,
 		"name": "Cucumber",
-		"image": "../../assets/Images/potato.jpg",
-		"desc": "Buy our certified and tastiest Pumpkin"
+		"image": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/02/283006_2200-732x549.jpg",
+		"desc": "Cucumber is a widely-cultivated creeping vine plant in the Cucurbitaceae gourd family that bears cucumiform fruits"
+	}
+	,
+	{
+		"id": 10,
+		"name": "Pineapple",
+		"image": "https://cdn-prod.medicalnewstoday.com/content/images/articles/323/323783/fresh-pineapple-sliced-on-chopping-board.jpg",
+		"desc": "Cucumber is a widely-cultivated creeping vine plant in the Cucurbitaceae gourd family that bears cucumiform fruits"
+	}
+	,
+	{
+		"id": 11,
+		"name": "Banana",
+		"image": "https://cosmosmagazine.com/wp-content/uploads/2020/02/190902_banannas_full-1440x813.jpg",
+		"desc": "A banana is an elongated, edible fruit – botanically a berry"
+	}
+	,
+	{
+		"id": 12,
+		"name": "Grapes",
+		"image": "https://grapaes.com/wp-content/uploads/2019/07/ARRA-30-RESIZED.png",
+		"desc": "A grape is a fruit, botanically a berry, of the deciduous woody vines of the flowering plant genus Vitis."
 	}
 
 ]
