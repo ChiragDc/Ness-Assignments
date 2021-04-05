@@ -33,5 +33,24 @@
 		"name": "Potato",
 		"image": "../../assets/Images/potato.jpg",
 		"desc": "Buy our certified and tastiest Pumpkin"
+	},
+	{
+		"id": 7,
+		"name": "Tomato",
+		"image": "../../assets/Images/potato.jpg",
+		"desc": "Buy our certified and tastiest Pumpkin"
+	},
+	{
+		"id": 8,
+		"name": "Radish",
+		"image": "../../assets/Images/potato.jpg",
+		"desc": "Buy our certified and tastiest Pumpkin"
+	},
+	{
+		"id": 9,
+		"name": "Cucumber",
+		"image": "../../assets/Images/potato.jpg",
+		"desc": "Buy our certified and tastiest Pumpkin"
 	}
+
 ]
