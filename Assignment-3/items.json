@@ -1,0 +1,37 @@
+[{
+		"id": 1,
+		"name": "Kashmir Apples",
+		"image": "../../assets/Images/apple.jpg",
+		"desc": "Buy our certified and tastiest apples"
+	},
+	{
+		"id": 2,
+		"name": "Oranges",
+		"image": "../../assets/Images/Oranges.jpg",
+		"desc": "Buy our certified and tastiest Oranges"
+	},
+	{
+		"id": 3,
+		"name": "Watermelon",
+		"image": "../../assets/Images/wm.webp",
+		"desc": "Buy our certified and tastiest Watermelon"
+	},
+	{
+		"id": 4,
+		"name": "Pumpkin",
+		"image": "../../assets/Images/pump.jpg",
+		"desc": "Buy our certified and tastiest Pumpkin"
+	},
+	{
+		"id": 5,
+		"name": "Beans",
+		"image": "../../assets/Images/beans.jpg",
+		"desc": "Buy our certified and tastiest Beans"
+	},
+	{
+		"id": 6,
+		"name": "Potato",
+		"image": "../../assets/Images/potato.jpg",
+		"desc": "Buy our certified and tastiest Pumpkin"
+	}
+]
