@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="20159087-4d72-4ee5-984b-7ef5b5b1d21d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/.idea/CoreJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ness-Assignments.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/out/production/CoreJava/com/core1/TrialOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/out/production/CoreJava/com/core1/pyramids.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/out/production/CoreJava/day2/ArrayDiff.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/out/production/CoreJava/day2/Arrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/out/production/CoreJava/day2/CustomArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/out/production/CoreJava/day2/LargestAndSmallest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/out/production/CoreJava/day2/ReversingArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/out/production/CoreJava/day2/TwoDArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/src/day1/TrialOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/src/com/corejava/day1/TrialOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/src/day1/pyramids.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/src/com/corejava/day1/pyramids.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/src/day2/ArrayDiff.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/src/com/corejava/day2/ArrayDiff.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/src/day2/Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/src/com/corejava/day2/Arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/src/day2/CustomArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/src/com/corejava/day2/CustomArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/src/day2/LargestAndSmallest.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/src/com/corejava/day2/LargestAndSmallest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/src/day2/ReversingArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/src/com/corejava/day2/ReversingArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/src/day2/TwoDArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/src/com/corejava/day2/TwoDArray.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1r3X64MdlsTtYZx2KLwsilKzN15" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20159087-4d72-4ee5-984b-7ef5b5b1d21d" name="Default Changelist" comment="" />
+      <created>1618205574215</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618205574215</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
