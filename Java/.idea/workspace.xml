@@ -2,29 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20159087-4d72-4ee5-984b-7ef5b5b1d21d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoreJava/.idea/CoreJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ness-Assignments.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreJava/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreJava/out/production/CoreJava/com/core1/TrialOne.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreJava/out/production/CoreJava/com/core1/pyramids.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreJava/out/production/CoreJava/day2/ArrayDiff.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreJava/out/production/CoreJava/day2/Arrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreJava/out/production/CoreJava/day2/CustomArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreJava/out/production/CoreJava/day2/LargestAndSmallest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreJava/out/production/CoreJava/day2/ReversingArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreJava/out/production/CoreJava/day2/TwoDArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreJava/src/day1/TrialOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/src/com/corejava/day1/TrialOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreJava/src/day1/pyramids.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/src/com/corejava/day1/pyramids.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreJava/src/day2/ArrayDiff.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/src/com/corejava/day2/ArrayDiff.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreJava/src/day2/Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/src/com/corejava/day2/Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreJava/src/day2/CustomArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/src/com/corejava/day2/CustomArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreJava/src/day2/LargestAndSmallest.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/src/com/corejava/day2/LargestAndSmallest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreJava/src/day2/ReversingArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/src/com/corejava/day2/ReversingArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreJava/src/day2/TwoDArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/src/com/corejava/day2/TwoDArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/src/com/corejava/day3/constructors/Constructors.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/src/com/corejava/day3/Constructors.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,9 +14,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1r3X64MdlsTtYZx2KLwsilKzN15" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -65,5 +48,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

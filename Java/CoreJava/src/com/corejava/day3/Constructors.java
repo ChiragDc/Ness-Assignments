@@ -1,4 +1,4 @@
-package com.corejava.day3.constructors;
+package com.corejava.day3;
 
 class Members {
     private int gen;
