@@ -1,0 +1,73 @@
+<div class="container rounded mt-4">
+    <div class="row justify-content-center">
+        <div class="col-md-9 fm">
+            <div class="card border-primary ">
+                <header class="card-header bg-dark">
+
+                    <h4 class="card-title mt-1 text-light text-center">Update Employee </h4>
+                </header>
+                <article class="card-body">
+                    <div class="col-md-6 offset-md-3">
+                        <!-- <h3> </h3> -->
+                        <form #userForm="ngForm" (ngSubmit)="onSubmit()">
+
+                            <div class="form-group">
+                                <label> First Name</label>
+                                <div class="input-group mb-3">
+                                    <div class="input-group-prepend">
+                                        <span class="input-group-text bg-dark text-light"><i
+                                                class="fas fa-address-card"></i></span>
+                                    </div>
+                                    <input type="text" required #firstName="ngModel"
+                                        [class.is-invalid]="firstName.touched && firstName.invalid" class="form-control"
+                                        id="firstName" [(ngModel)]="employee.firstName" name="firstName">
+                                </div>
+                            </div>
+                            <span class="small text-danger" *ngIf="firstName.touched && firstName.invalid">Please Enter
+                                First Name </span>
+
+
+                            <div class="form-group">
+                                <label> Last Name</label>
+                                <div class="input-group mb-3">
+                                    <div class="input-group-prepend">
+                                        <span class="input-group-text bg-dark text-light"><i
+                                                class="fas fa-address-card"></i></span>
+                                    </div>
+                                    <input type="text" required #lastName="ngModel"
+                                        [class.is-invalid]="lastName.touched && lastName.invalid" class="form-control"
+                                        id="lastName" [(ngModel)]="employee.lastName" name="lastName">
+                                </div>
+                            </div>
+                            <span class="small text-danger" *ngIf="lastName.touched && lastName.invalid">Please Enter
+                                Last Name </span>
+
+
+                            <div class="form-group">
+                                <label> Email Id</label>
+                                <div class="input-group mb-3">
+                                    <div class="input-group-prepend">
+                                        <span class="input-group-text bg-dark text-light"><i
+                                                class="far fa-envelope"></i></span>
+                                    </div>
+                                    <input type="text" required #emailId="ngModel"
+                                        [class.is-invalid]="emailId.touched && emailId.invalid" id="lastName"
+                                        [(ngModel)]="employee.emailId" class="form-control" id="emailId"
+                                        [(ngModel)]="employee.emailId" name="emailId">
+                                </div>
+                            </div>
+                            <span class="small text-danger" *ngIf="emailId.touched && emailId.invalid">Please Enter Last
+                                Name </span>
+                            <br>
+
+                            <button class="btn btn-dark container" [disabled]="!userForm.form.valid "
+                                type="submit">Update</button>
+
+                        </form>
+                    </div>
+                </article>
+
+            </div>
+        </div>
+
+    </div>
